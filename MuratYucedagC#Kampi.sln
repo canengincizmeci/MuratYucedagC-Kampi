@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamp1", "Kamp1\Kamp1.csproj", "{097C9B0F-692D-4BAA-A6F0-8DE91D7DA66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamp2", "Kamp2\Kamp2.csproj", "{B06858EE-F39C-4333-A372-D1013028F6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097C9B0F-692D-4BAA-A6F0-8DE91D7DA66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097C9B0F-692D-4BAA-A6F0-8DE91D7DA66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097C9B0F-692D-4BAA-A6F0-8DE91D7DA66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097C9B0F-692D-4BAA-A6F0-8DE91D7DA66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06858EE-F39C-4333-A372-D1013028F6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06858EE-F39C-4333-A372-D1013028F6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06858EE-F39C-4333-A372-D1013028F6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06858EE-F39C-4333-A372-D1013028F6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75D3568-D4CD-4D93-9336-5F1C7ABFA7D8}
+	EndGlobalSection
+EndGlobal
