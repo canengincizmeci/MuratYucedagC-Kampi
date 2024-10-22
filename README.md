@@ -1,5 +1,5 @@
 :boom::boom: C# Eğitim Kampı 
-Bu repoda Murat Yücedağın C€ Eğitim Kampı projeleri bulunmaktadır.Aşağıda kamplarda
+Bu repoda Murat Yücedağın C# Eğitim Kampı projeleri bulunmaktadır.Aşağıda kamplarda
 işlenen konular mevcuttur
 
 
