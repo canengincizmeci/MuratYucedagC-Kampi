@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kamp8", "Kamp8\Kamp8.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamp9", "Kamp9\Kamp9.csproj", "{36EBAA14-3C28-445A-B646-1855407EB01F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamp10", "Kamp10\Kamp10.csproj", "{EBFA9B35-5733-4164-8F1A-3C12F5BC2892}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{36EBAA14-3C28-445A-B646-1855407EB01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36EBAA14-3C28-445A-B646-1855407EB01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36EBAA14-3C28-445A-B646-1855407EB01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFA9B35-5733-4164-8F1A-3C12F5BC2892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFA9B35-5733-4164-8F1A-3C12F5BC2892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFA9B35-5733-4164-8F1A-3C12F5BC2892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFA9B35-5733-4164-8F1A-3C12F5BC2892}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
